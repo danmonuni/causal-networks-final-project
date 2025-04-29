@@ -6,8 +6,8 @@
 
 This repository is the final project for the Causal Networks course. It’s divided into two main parts:
 
-- **Presentation**: slide decks and visual summaries  
-- **Assignment**: code notebook and formal report  
+- **Presentation**: a paper study with a presentation 
+- **Assignment**: a coding assignment
 
 Each key file is linked below with a convenient button.
 
